@@ -1,3 +1,19 @@
+<?php
+
+/*
+* Plugin Name: نمونه کد نمایش لیست تراکنش ها از طریق کلید API
+* Description: نمونه کد نمایش لیست تراکنش های درگاه رمز ارزی وب سایت شما از طریق کلید API بر پایه زبان برنامه نویسی PHP
+* Version: 1.1
+* developer: Hanif Zekri Astaneh
+* Author: دیجی درگاه
+* Author URI: https://digidargah.com
+* Author Email: info@digidargah.com
+* copyright (C) 2020 digidargah
+* license http://www.gnu.org/licenses/gpl-3.0.html GPLv3 or later
+*/
+
+?>
+
 <!doctype html>
 <html>
 <head>
