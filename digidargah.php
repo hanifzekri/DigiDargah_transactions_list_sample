@@ -42,7 +42,7 @@ if ($_POST['action'] == 'process') {
 		'limit_count' => $_POST['limit_count'],
 	); 
 	
-	$url = 'https://digidargah.com/action/ws/request_list';
+	$url = 'https://digidargah.com/action/ws/request/list';
 	$ch = curl_init($url);
 	curl_setopt($ch, CURLOPT_POST, true);
 	curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($params));
